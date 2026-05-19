@@ -71,10 +71,10 @@ python app.py
 ## 📸 Screenshots
 
 ### 🟢 Initial Interface
-![Initial UI](assets/initial.jpeg)
+![Initial UI](assets/initial.png)
 
 ### 🔵 Output Example
-![Output UI](assets/output.jpeg)
+![Output UI](assets/output.png)
 
 ## 🎯 Future Improvements
 Multi-document support
