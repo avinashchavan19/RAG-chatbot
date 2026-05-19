@@ -71,10 +71,10 @@ python app.py
 ## 📸 Screenshots
 
 ### 🟢 Initial Interface
-![Initial UI](assets/initial.png)
+![Initial UI](https://raw.githubusercontent.com/avinashchavan19/RAG-chatbot/main/assets/initial.png)
 
 ### 🔵 Output Example
-![Output UI](assets/output.png)
+![Output UI](https://raw.githubusercontent.com/avinashchavan19/RAG-chatbot/main/assets/output.png)
 
 ## 🎯 Future Improvements
 Multi-document support
