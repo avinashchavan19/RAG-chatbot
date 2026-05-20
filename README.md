@@ -37,17 +37,15 @@ This project is a **RAG (Retrieval-Augmented Generation) Chatbot** that answers 
 
 ## 📂 Project Structure
 
-Rag_chatbot/
+├── Rag_chatbot/assets
 
-├── backend/
+├── backend
 
-├── frontend/
+├── frontend
 
-├── uploads/
+├── uploads
 
-├── vectorstore/
-
-├── assets/
+├── vectorstore
 
 ├── .gitignore
 
