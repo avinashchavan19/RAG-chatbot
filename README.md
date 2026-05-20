@@ -38,14 +38,22 @@ This project is a **RAG (Retrieval-Augmented Generation) Chatbot** that answers 
 ## 📂 Project Structure
 
 Rag_chatbot/
+
 │
 ├── backend/
+
 ├── frontend/
+
 ├── uploads/
+
 ├── vectorstore/
+
 ├── assets/
+
 ├── .gitignore
+
 ├── README.md
+
 ├── requirements.txt
 
 ---
@@ -71,10 +79,10 @@ python app.py
 ## 📸 Screenshots
 
 ### 🟢 Initial Interface
-![Initial UI](https://raw.githubusercontent.com/avinashchavan19/RAG-chatbot/main/assets/initial.png)
+![Initial UI](Rag_chatbot/assets/initial.png)
 
 ### 🔵 Output Example
-![Output UI](https://raw.githubusercontent.com/avinashchavan19/RAG-chatbot/main/assets/output.png)
+![Output UI](Rag_chatbot/assets/output.png)
 
 ## 🎯 Future Improvements
 Multi-document support
