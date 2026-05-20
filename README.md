@@ -39,7 +39,6 @@ This project is a **RAG (Retrieval-Augmented Generation) Chatbot** that answers 
 
 Rag_chatbot/
 
-│
 ├── backend/
 
 ├── frontend/
